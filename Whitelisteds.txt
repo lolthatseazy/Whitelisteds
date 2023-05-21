@@ -1,10 +1,5 @@
 local whitelists = {
-  [1] = "1x1x1x1IsAlreadyH3re",
-  [2] = "1x1x1x1IsAlreadyH3re",
-  [3] = "1x1x1x1IsAlreadyH3re",
-  [4] = "1x1x1x1IsAlreadyH3re",
-  [5] = "1x1x1x1IsAlreadyH3re",
-  [6] = "1x1x1x1IsAlreadyH3re",
-  [7] = "1x1x1x1IsAlreadyH3re"
+  [1] = "4399109596",
+  [2] = "4412373183"
  }
 return whitelists
